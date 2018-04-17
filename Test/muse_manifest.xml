@@ -1,0 +1,171 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="spokenWorld.com" resolutions="1x" timestamp="1523993593141">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3894904380" ref="index"/>
+    <file name="nomq_index.css" crc="4013690596" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4182759004" ref="index"/>
+    <file name="background.jpg" crc="71203130" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="logo.png" crc="227085873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="map.png" crc="137207871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="nextuphero.png" crc="4246823368" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="nextuphero1_rollover.png" crc="3935267814" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="soundtrack.png" crc="212884643" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="soundtrack_rollover.png" crc="4194211320" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="merch.png" crc="215483310" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="merch1_rollover.png" crc="4065691063" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="issue2.png" crc="3995832066" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="issue21_rollover.png" crc="348741331" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="about.png" crc="363238436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="map768x619.png" crc="137207871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="about734x280.png" crc="363238436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="map666x537.png" crc="137207871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about631x241.png" crc="363238436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="issue1.png" crc="242657635" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="issue1_rollover.png" crc="293001472" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="u12634-4.png" crc="405243313" ref="index"/>
+    <file name="u12634-42.png" crc="3936573762" ref="index"/>
+    <file name="soundtrack-buttonu12810-fr.png" crc="114297804" ref="index"/>
+    <file name="soundtrack_rollover-buttonu12810-r-fr.png" crc="3891625367" ref="index"/>
+    <file name="u12634-43.png" crc="3936573762" ref="index"/>
+    <file name="issue1-buttonu12715-fr.png" crc="6113998" ref="index"/>
+    <file name="issue1_rollover-buttonu12715-r-fr.png" crc="4181371007" ref="index"/>
+    <file name="issue2-buttonu12872-fr.png" crc="3855470151" ref="index"/>
+    <file name="issue21_rollover-buttonu12872-r-fr.png" crc="199964835" ref="index"/>
+    <file name="merch-buttonu12779-fr.png" crc="5471762" ref="index"/>
+    <file name="merch1_rollover-buttonu12779-r-fr.png" crc="3886404423" ref="index"/>
+    <file name="nextuphero-buttonu12841-fr.png" crc="4022599178" ref="index"/>
+    <file name="nextuphero1_rollover-buttonu12841-r-fr.png" crc="477236823" ref="index"/>
+    <file name="u12634-44.png" crc="75815529" ref="index"/>
+    <file name="u12635-4.png" crc="4138063995" ref="index"/>
+    <file name="u12634-45.png" crc="3809652511" ref="index"/>
+    <file name="u12635-42.png" crc="483638364" ref="index"/>
+    <file name="mobile_nuh-u13378-fr.png" crc="249971467" ref="index"/>
+    <file name="mobile_soundtrack-u13385-fr.png" crc="4059925578" ref="index"/>
+    <file name="mobile_issue1-u13364-fr.png" crc="4172818610" ref="index"/>
+    <file name="mobile_merch-u13371-fr.png" crc="84062879" ref="index"/>
+    <file name="mobile_issue2-u13357-fr.png" crc="137913619" ref="index"/>
+    <file name="mobile_about406x482.png" crc="182550322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoken-world---portal-copy" alt=""/>
+    </file>
+    <file name="u12634-46.png" crc="3960073779" ref="index"/>
+    <file name="issue1-buttonu12715-fr2.png" crc="4145611639" ref="index"/>
+    <file name="issue1_rollover-buttonu12715-r-fr2.png" crc="4116282435" ref="index"/>
+    <file name="merch-buttonu12779-fr2.png" crc="413093994" ref="index"/>
+    <file name="merch1_rollover-buttonu12779-r-fr2.png" crc="4260352158" ref="index"/>
+    <file name="soundtrack-buttonu12810-fr2.png" crc="137383458" ref="index"/>
+    <file name="soundtrack_rollover-buttonu12810-r-fr2.png" crc="4209624241" ref="index"/>
+    <file name="nextuphero-buttonu12841-fr2.png" crc="3820658070" ref="index"/>
+    <file name="nextuphero1_rollover-buttonu12841-r-fr2.png" crc="3987980132" ref="index"/>
+    <file name="background-u12513-fr.jpg" crc="4050848410" ref="index"/>
+    <file name="issue1-buttonu12715-fr3.png" crc="4268083482" ref="index"/>
+    <file name="issue1_rollover-buttonu12715-r-fr3.png" crc="3803200501" ref="index"/>
+    <file name="issue2-buttonu12872-fr2.png" crc="4134119753" ref="index"/>
+    <file name="issue21_rollover-buttonu12872-r-fr2.png" crc="512652823" ref="index"/>
+    <file name="merch-buttonu12779-fr3.png" crc="100535859" ref="index"/>
+    <file name="merch1_rollover-buttonu12779-r-fr3.png" crc="305177462" ref="index"/>
+    <file name="soundtrack-buttonu12810-fr3.png" crc="465549865" ref="index"/>
+    <file name="soundtrack_rollover-buttonu12810-r-fr3.png" crc="4022978176" ref="index"/>
+    <file name="nextuphero-buttonu12841-fr3.png" crc="3831964848" ref="index"/>
+    <file name="nextuphero1_rollover-buttonu12841-r-fr3.png" crc="3841571275" ref="index"/>
+    <file name="mobile_about357x424.png" crc="182550322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobile_nuh-u13378-fr2.png" crc="3941692091" ref="index"/>
+    <file name="mobile_soundtrack-u13385-fr2.png" crc="4250988466" ref="index"/>
+    <file name="mobile_issue1-u13364-fr2.png" crc="97456410" ref="index"/>
+    <file name="mobile_merch-u13371-fr2.png" crc="3810050333" ref="index"/>
+    <file name="mobile_issue2-u13357-fr2.png" crc="4075263783" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4160316422" seo="true" mt="1523993573569" redirect="true"/>
+</manifest>
